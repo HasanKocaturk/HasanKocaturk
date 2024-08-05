@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HASAN KOCATURK</h1>
+<h1 align="center">Hi 👋, I'm HASAN KOCATÜRK</h1>
 <h3 align="center">A passionate react native and game developer from Türkiye</h3>
 
 - 📫 How to reach me **hasankocaturk36@gmail.com**
